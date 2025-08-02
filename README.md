@@ -42,3 +42,15 @@ defect_detection_project/
 
 ## 📁 Project Structure
 
+## 🧑‍💻 How to Run Locally
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/sachiin044/bottles_defect_detection_project.git
+   cd bottles_defect_detection_project
+   
+2. Create virtual environment (optional but recommended)
+  python -m venv venv
+  source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+
