@@ -1,0 +1,27 @@
+# Ignore dataset and training/test image folders
+mvtec_ad/
+train/
+test/
+
+# Ignore model weights
+*.pth
+*.pt
+
+# Ignore Python cache files and folders
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore logs or temp files (optional)
+*.log
+*.tmp
+*.npy
+*.npz
+
+# Ignore system files (macOS/Windows)
+.DS_Store
+Thumbs.db
+
+patchcore-inspection/
