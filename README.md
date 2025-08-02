@@ -30,15 +30,15 @@ It detects visual defects like cracks, contamination, and broken seals — deplo
 ---
 
 defect_detection_project/
-├── src/
-│ └── app.py # Streamlit frontend
-├── results/
-│ ├── predictions.csv # Inference results
-│ ├── confusion_matrix.png
-│ ├── heatmaps/
-│ └── originals/
-├── requirements.txt
-└── README.md
+- ├── src/
+- │ └── app.py # Streamlit frontend
+- ├── results/
+- │ ├── predictions.csv # Inference results
+- │ ├── confusion_matrix.png
+- │ ├── heatmaps/
+- │ └── originals/
+- ├── requirements.txt
+- └── README.md
 
 ## 📁 Project Structure
 
