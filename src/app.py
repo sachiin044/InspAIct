@@ -12,7 +12,7 @@ st.markdown("Visualize anomaly predictions and heatmaps for MVTec AD test images
 # === CONFIGURATION ===
 PREDICTIONS_CSV = "results/predictions.csv"
 HEATMAP_DIR = "results"
-TEST_IMAGE_DIR = "mvtec_ad/bottle/test"
+TEST_IMAGE_DIR = "./results/originals"
 
 # === Load Predictions ===
 @st.cache_data
