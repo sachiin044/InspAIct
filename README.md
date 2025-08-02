@@ -72,4 +72,12 @@ Want to contribute? Awesome!
 - 📤 Export results to PDF
 - 🌐 Add login / session tracking
 
+## 👨‍💻 Author
+Sachin Gupta
+📧 Email: royalsachingupta@gmail.com
+🔗 GitHub: @sachiin044
+
+## 📜 License
+MIT License. Feel free to use, modify, and distribute ⭐
+
 
