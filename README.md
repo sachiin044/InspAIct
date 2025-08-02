@@ -29,6 +29,7 @@ It detects visual defects like cracks, contamination, and broken seals — deplo
 
 ---
 
+## 📁 Project Structure
 defect_detection_project/
 - ├── src/
 - │ └── app.py # Streamlit frontend
@@ -39,9 +40,6 @@ defect_detection_project/
 - │ └── originals/
 - ├── requirements.txt
 - └── README.md
-
-## 📁 Project Structure
-
 ## 🧑‍💻 How to Run Locally
 
 1. **Clone the repo**
@@ -52,5 +50,26 @@ defect_detection_project/
 2. Create virtual environment (optional but recommended)
   python -m venv venv
   source venv/bin/activate  # or venv\Scripts\activate on Windows
+
+3. Install dependencies
+   pip install -r requirements.txt
+   
+4. Run Streamlit app
+   streamlit run src/app.py
+
+## 🤝 Collaborators Welcome!
+
+Want to contribute? Awesome!
+- 🍴 Fork this repo
+- 🌿 Create a new branch (git checkout -b feature-name)
+- 📦 Add your code
+- 📩 Submit a pull request
+
+
+🧠 Future Ideas (Open to Contribution)
+- 📸 Add image upload and live scoring
+- 🧠 Support other MVTec classes (screw, cable, hazelnut...)
+- 📤 Export results to PDF
+- 🌐 Add login / session tracking
 
 
