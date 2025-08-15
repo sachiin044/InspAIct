@@ -1,12 +1,34 @@
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)  
-![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green)  
-![Status](https://img.shields.io/badge/Status-Active-success) 
+# 🤖 InspAIct – Intelligent Bottle Defect Detection with PatchCore & MVTec AD  
 
-# 🤖 InspAIct – Intelligent Bottle Defect Detection with PatchCore & MVTec AD
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](#)  
+[![Streamlit Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit)](https://sachiin044-bottles-defect-detection-project-srcapp-zoypv0.streamlit.app/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
+![Status](https://img.shields.io/badge/Status-Active-success)  
 
 **InspAIct** is a **Streamlit-powered anomaly detection app** that uses the **PatchCore** algorithm to identify manufacturing defects in bottles from the **MVTec AD** dataset.  
-It detects issues like cracks, contamination, and broken seals — with **heatmap visualizations** to make defects easy to spot.
+It detects issues like cracks, contamination, and broken seals — with **heatmap visualizations** to make defects easy to spot.  
+
+---
+
+## 📑 Table of Contents
+1. [Project Overview](#1️⃣-project-overview)  
+2. [Motivation](#2️⃣-motivation)  
+3. [Features](#3️⃣-features)  
+4. [Tech Stack](#4️⃣-tech-stack)  
+5. [Live Demo](#5️⃣-live-demo)  
+6. [Installation](#6️⃣-installation)  
+7. [Usage](#7️⃣-usage)  
+8. [Input & Output Format](#8️⃣-input--output-format)  
+9. [Project Structure](#9️⃣-project-structure)  
+10. [Dataset](#-dataset)  
+11. [Model Details](#1️⃣1️⃣-model-details)  
+12. [Results & Examples](#1️⃣2️⃣-results--examples)  
+13. [Why It Matters](#1️⃣3️⃣-why-it-matters)  
+14. [Future Work / Roadmap](#1️⃣4️⃣-future-work--roadmap)  
+15. [Contributing](#1️⃣5️⃣-contributing)  
+16. [License](#1️⃣6️⃣-license)  
+17. [Acknowledgements](#1️⃣7️⃣-acknowledgements)  
+18. [Contact](#1️⃣8️⃣-contact)  
 
 ---
 
@@ -194,13 +216,45 @@ Automated defect detection with **InspAIct**:
 We welcome contributions from the community!  
 To contribute:
 1. Fork the repository
-2. Create a new branch:  
+2. Create a new branch:
+
    ```bash
    git checkout -b feature-name
    ```
-3. Commit your changes and push to your fork
-4. Open a pull request  
+   
+4. Commit your changes and push to your fork
+5. Open a pull request  
 Please follow the CONTRIBUTING.md guidelines for more details.
+
+---
+
+## 1️⃣6️⃣ License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute it for both personal and commercial purposes, provided proper attribution is given.  
+See the [LICENSE](LICENSE) file for full details.
+
+---
+
+## 1️⃣7️⃣ Acknowledgements
+
+- **PatchCore**: [https://arxiv.org/abs/2106.08265](https://arxiv.org/abs/2106.08265) – Base anomaly detection algorithm.
+- **MVTec AD Dataset**: [https://www.mvtec.com/company/research/datasets/mvtec-ad](https://www.mvtec.com/company/research/datasets/mvtec-ad) – Source of training and testing images.
+- **Streamlit**: [https://streamlit.io/](https://streamlit.io/) – Web app framework for interactive demos.
+- The open-source AI community for tools, inspiration, and resources.
+
+---
+
+## 1️⃣8️⃣ Contact
+
+**Author:** Sachin Gupta  
+**GitHub:** [@sachiin044](https://github.com/sachiin044)  
+**Email:** royalsachingupta@gmail.com  
+**LinkedIn:** [sachiin04](https://www.linkedin.com/in/sachiin04)  
+**Live Demo:** [InspAIct on Streamlit](https://sachiin044-bottles-defect-detection-project-srcapp-zoypv0.streamlit.app/)  
+
+
+
 
 
 
