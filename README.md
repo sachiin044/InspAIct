@@ -213,18 +213,14 @@ Automated defect detection with **InspAIct**:
 
 ## 1️⃣5️⃣ Contributing
 
-We welcome contributions from the community!  
+We welcome contributions!  
 To contribute:
-1. Fork the repository
-2. Create a new branch:
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-name`).
+3. Commit your changes and push the branch.
+4. Open a Pull Request.
 
-   ```bash
-   git checkout -b feature-name
-   ```
-   
-4. Commit your changes and push to your fork
-5. Open a pull request  
-Please follow the CONTRIBUTING.md guidelines for more details.
+Please check our **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines.
 
 ---
 
