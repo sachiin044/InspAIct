@@ -244,7 +244,7 @@ See the [LICENSE](LICENSE) file for full details.
 ## 1️⃣8️⃣ Contact
 
 **Author:** Sachin Gupta  
-**GitHub:** [@sachiin044](https://github.com/sachiin044)  
+**GitHub:** [sachiin044](https://github.com/sachiin044)  
 **Email:** royalsachingupta@gmail.com  
 **LinkedIn:** [sachiin04](https://www.linkedin.com/in/sachiin04)  
 **Live Demo:** [InspAIct on Streamlit](https://sachiin044-bottles-defect-detection-project-srcapp-zoypv0.streamlit.app/)  
