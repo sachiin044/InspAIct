@@ -76,13 +76,9 @@ git push origin feature-add-secondary-structure
 **💡 Types of Contributions Welcome**
 
 - 🐛 Bug Fixes – Solve issues, crashes, or incorrect predictions.
-
 - ✨ Features – Add new defect detection modules or UI features.
-
 - 📚 Documentation – Improve README, code comments, or tutorials.
-
 - 🧠 Research Ideas – Suggest improvements to the model or dataset usage.
-
 - 📊 Visualization – Enhance defect heatmaps or add comparison tools.
 
 ---
